@@ -1,0 +1,6 @@
+{
+  "name": "MAISON — Luxury Fashion E-Commerce",
+  "description": "Where Elegance Meets Everyday Luxury. A world-class, premium fashion e-commerce shopping platform powered by a Python backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
